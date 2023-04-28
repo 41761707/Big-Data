@@ -1,6 +1,6 @@
 function()
 {
-
-    functionThree();
+    functionOne();
     functionTwo();
+    functionThree();
 }
