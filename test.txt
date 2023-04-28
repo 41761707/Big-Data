@@ -1,5 +1,11 @@
 function()
 {
+<<<<<<< HEAD
     functionThree();
     functionTwo();
+=======
+    functionOne();
+    functionTwo();
+    functionThree();
+>>>>>>> origin/test_branch
 }
