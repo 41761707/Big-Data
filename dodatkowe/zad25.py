@@ -1,3 +1,4 @@
+def sliding_window(data_stream, window_length, samples_in_window):
     pointers = []
     A = []
     A_sample_ids = []
